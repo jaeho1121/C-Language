@@ -1,0 +1,8 @@
+﻿빌드 시작...
+1>------ 빌드 시작: 프로젝트: Project18, 구성: Debug x64 ------
+1>소스.c
+1>C:\Users\user\source\repos\Project18\Project18\소스.c(11,12): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+1>Project18.vcxproj -> C:\Users\user\source\repos\Project18\x64\Debug\Project18.exe
+1>"Project18.vcxproj" 프로젝트를 빌드했습니다.
+========== 빌드: 1개 성공, 0개 실패, 0개 최신 상태, 0개 건너뜀 ==========
+========== 00:00.579 경과 ==========
