@@ -30,10 +30,10 @@ main() {
 }
 
 
-//int score[num];
+//int score[num]; 4줄의 코딩 이용하기
 
-for(i=0; i<num; i++) {
+//for(i=0; i<num; i++) {
 
-for(j=0; j<= score[i]/10; j++)
+//for(j=0; j<= score[i]/10; j++)
 
-printf(“*”);//
+//printf(“*”);
