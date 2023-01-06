@@ -4,7 +4,7 @@ main() {
 
 	int i, num, sco[20], max, min, a = 0, b = 0;
 	double add = 0;
-	printf("ÇĞ»ı¼ö ÀÔ·Â : ");
+	printf("í•™ìƒìˆ˜ ì…ë ¥ : ");
 	scanf("%d", &num);
 	for (int i = 0; i < 20; i++)
 	{
@@ -24,7 +24,16 @@ main() {
 		}
 		add += sco[i];
 	}
-	printf("\nÃÖÀúÁ¡¼ö(%d¹ø ÇĞ»ı) : %d\n", b + 1, min);
-	printf("ÃÖ°íÁ¡¼ö(%d¹ø ÇĞ»ı) : %d\n", a + 1, max);
-	printf("Æò±Õ : %f\n", add / num);
+	printf("\nìµœì €ì ìˆ˜(%dë²ˆ í•™ìƒ) : %d\n", b + 1, min);
+	printf("ìµœê³ ì ìˆ˜(%dë²ˆ í•™ìƒ) : %d\n", a + 1, max);
+	printf("í‰ê·  : %f\n", add / num);
 }
+
+
+//int score[num];
+
+for(i=0; i<num; i++) {
+
+for(j=0; j<= score[i]/10; j++)
+
+printf(â€œ*â€);//
